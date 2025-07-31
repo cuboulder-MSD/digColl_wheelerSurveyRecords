@@ -77,7 +77,7 @@ Controlled, stable link to the resource.
 
 Example: https://ark.colorado.edu/ark:/47540/xb7x8098x6rj
 ### Physical Location
-The institution or repository that holds the resource or where it is available:
+The institution or repository that holds the resource or where it is available: University of Colorado Boulder Libraries Rare and Distinctive Collections
 ### Shelf Locator
 Shelfmark or other shelving designation that indicates the location identifier for a resource. 
 
