@@ -1,3 +1,4 @@
+### Wheeler Survey Records
 ## Description
 The United States Geographical Survey West of the One Hundredth Meridian, or the "Wheeler Survey," was conducted from 1867-1879, under the leadership of Lieutenant George Montague Wheeler. The CU Boulder Libraries' Rare & Distinctive Collections holds a large collection of records relating to this survey, including the topographical records notebooks included in this digital project.
 
