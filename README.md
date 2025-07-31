@@ -4,7 +4,6 @@ The United States Geographical Survey West of the One Hundredth Meridian, or the
 
 Permanent address to digital collection: [https://doi.org/10.60807/hp9y-4575](https://doi.org/10.60807/hp9y-4575).<br /> 
 Please use the same link when sharing or citing the collection.
-Current Extended MODS Metadata Schema
 
 ## Metadata
 ### Collection Name
