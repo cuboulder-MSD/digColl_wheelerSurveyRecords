@@ -39,7 +39,7 @@ Language(s) seen in this collection include: English
 ### Extent
 The size or scale of the work.
 
-Typicall 1 volume (various pagings)
+Typically 1 volume (various pagings)
 ### Form
 A particular physical presentation of a resource, including the physical form or medium of material for a resource. 
 
